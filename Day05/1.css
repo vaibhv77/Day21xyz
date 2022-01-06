@@ -1,0 +1,36 @@
+html,
+body {
+    margin: 0;
+}
+
+.parent1 {
+    display:flex;
+    background: green;
+    height: 100vh;
+    
+   
+
+}
+
+.centerfy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child1 {
+    background:gold;
+    flex: 1;
+
+}
+
+.child2 {
+    background:silver;
+    flex: 1;
+}
+
+.centerfy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
